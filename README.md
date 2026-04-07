@@ -2,7 +2,7 @@
 
 <h1 style="font-size: 3em; color: #FF0000;">•  PROYECTOS EN CODIGO BATCH </h1> 
 
-Luego de descargar git, Los comandos para acceder al repositorio son los siguientes comandos, dado el caso de que no descargue puedes darle click en el boton verde y luego dowload.
+Luego de descargar git, Los comandos para acceder al repositorio son los siguientes comandos, con el fin de descargar los repositorios, puedes darle click en el boton verde y luego dowload o si prefieres instalar git y descargar el software por medio de comandos.
 
 ```Terminal de comandos
 git --version
