@@ -13,7 +13,7 @@ git clone https://github.com/guevaraStian/Proyectos_Batch.git
 cd Proyectos_Batch
 git push origin master
 ```
-Luego ejecutas cada codigo batch en el sistema operativo correspondiente
+Luego ejecutas cada codigo batch en el sistema operativo correspondiente normalmente dando doble click en el .bat
 ```Terminal de comandos
 main.bat
 ```
