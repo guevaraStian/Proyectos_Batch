@@ -4,6 +4,25 @@
 
 Este repositorio tiene varios proyectos creados con barch y luego de ejecutarlos se procesan varios codigos de terminal de comandos.
 
+El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
+
+WINDOWS
+```Windows
+winget install --id Git.Git -e --source winget
+```
+
+LINUX, Fedora, Arch Linux, CentOS
+```Linux Fedora, Arch Linux, CentOS
+sudo dnf install git -y
+sudo pacman -S git
+sudo yum install git -y
+```
+MAC
+```MAC
+brew install git
+```
+
+
 Luego de descargar git, Los comandos para acceder al repositorio son los siguientes comandos, con el fin de descargar los repositorios, puedes darle click en el boton verde y luego dowload o si prefieres instalar git y descargar el software por medio de comandos.
 
 ```Terminal de comandos
