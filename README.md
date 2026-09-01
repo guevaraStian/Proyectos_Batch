@@ -2,7 +2,7 @@
 
 <h1 style="font-size: 3em; color: #FF0000;">•  PROYECTOS EN CODIGO BATCH </h1> 
 
-Este repositorio tiene varios proyectos creados con barch y luego de ejecutarlos se procesan varios codigos de terminal de comandos.
+Este repositorio tiene varios proyectos creados con barch para el sistema operativo windows, luego de ejecutarlos se procesan varios codigos de terminal de comandos.
 
 El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
 
