@@ -4,7 +4,7 @@
 
 Este repositorio tiene varios proyectos creados con barch para el sistema operativo windows, luego de ejecutarlos se procesan varios codigos de terminal de comandos.
 
-El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
+El comando de consola para intalar GIT en cada sistema operativo en el siguiente orden, cada comando de terminal.
 
 WINDOWS
 ```Windows
