@@ -2,7 +2,7 @@
 
 <h1 style="font-size: 3em; color: #FF0000;">•  PROYECTOS EN CODIGO BATCH </h1> 
 
-Este repositorio tiene varios proyectos creados con barch para el sistema operativo windows, luego de ejecutarlos se procesan varios codigos de terminal de comandos.
+Este repositorio tiene varios proyectos creados con batch para el sistema operativo windows, primro hay que descargar el proyecto, luego ejecutar los comandos para poner a correr cada software, en consola se muestran los resultados.
 
 El comando de consola para intalar GIT en cada sistema operativo en el siguiente orden, cada terminal de comando en su respectivo sistema operativo.
 
